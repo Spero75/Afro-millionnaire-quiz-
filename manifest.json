@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Afro Millionnaire",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "AfroQuiz",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Un jeu de quiz culturel africain et mondial"
+}
